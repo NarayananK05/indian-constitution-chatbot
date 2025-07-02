@@ -1,3 +1,4 @@
+# gemini_utils.py
 import streamlit as st
 import google.generativeai as genai
 
